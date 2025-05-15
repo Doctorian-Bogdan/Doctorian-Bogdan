@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript<br>🎯 Goals: Find work in 2025 🤞<br>📝 Resume: <a href="https://drive.google.com/file/d/1i8NH1eNo0B4QxwjiL2QT4mvw1Z4qNHUF/view?usp=sharing" target="_blank" >Link</a></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript<br>🎯 Goals: Find work in 2025 🤞<br>📝 Resume: <a href="https://drive.google.com/file/d/1ksxzlqFJNeh3fNQE58JLLmYTdstUMT0V/view?usp=sharing" target="_blank" >Link</a></p>
 
 ###
 
